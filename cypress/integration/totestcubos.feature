@@ -1,6 +1,5 @@
 Feature: Automação Desafio Qualidade
     Devo verificar se os campos estão preenchidos
-    Devo efetuar cadastro completo
     Devo interagir com varios elementos
 
     Background: Carregando o basico
