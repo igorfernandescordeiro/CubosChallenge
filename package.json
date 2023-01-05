@@ -19,7 +19,7 @@
     "nonGlobalStepDefinitions": true
   },
   "devDependencies": {
-    "cypress-cucumber-preprocessor": "^1.13.1",
+    "cypress-cucumber-preprocessor": "^1.19.2",
     "cypress-xpath": "^1.4.0"
   },
   "cucumberautocomplete.steps": [
